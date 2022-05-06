@@ -1,5 +1,16 @@
+# Packages
+**/node_modules
+
+# Build files
+**/dist
+
 # Serverless directories
 .serverless
 
-**/node_modules
-
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform-service-account.json
+terraform.tfstate*
+terraform.lock*
+tf_plan

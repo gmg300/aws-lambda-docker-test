@@ -1,0 +1,8 @@
+node_modules
+pm-debug.log
+.git
+.eslintrc.js
+.gitignore
+test
+serverless.yml
+dist
